@@ -1,0 +1,12 @@
+{
+  "name": "jonathan-stack",
+  "owner": { "name": "Jonathan Calpin" },
+  "plugins": [
+    {
+      "name": "jonathan-stack",
+      "source": "./plugins/jonathan-stack",
+      "description": "Personal Claude Code plugin: 10 role-based personas + orchestration commands. Composes with superpowers and tech-snacks.",
+      "version": "0.1.0"
+    }
+  ]
+}

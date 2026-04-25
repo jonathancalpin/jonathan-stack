@@ -2,6 +2,6 @@
   "name": "jonathan-stack",
   "version": "0.1.0",
   "description": "Personal Claude Code plugin: 8 role-based personas + iOS specialist + fintech compliance reviewer + orchestration commands. Composes with superpowers and tech-snacks.",
-  "author": "Jonathan Calpin",
+  "author": { "name": "Jonathan Calpin" },
   "license": "MIT"
 }
